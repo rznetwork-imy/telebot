@@ -33,7 +33,7 @@ apt install git curl -y
 
 1. Clone repository ini
 ```
-git clone https://github.com/alijayanet/telebot
+git clone https://github.com/rznetwork-imy/telebot
 ```
 3. Masuk ke direktori project
    ```
